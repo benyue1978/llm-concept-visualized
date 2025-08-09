@@ -1,0 +1,6 @@
+gensim
+smart_open
+transformers
+torch
+matplotlib
+seaborn
